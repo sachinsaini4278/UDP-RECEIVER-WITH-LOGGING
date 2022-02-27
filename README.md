@@ -72,7 +72,7 @@ In config there are some fields I have added:
 </ol>
 1. SERVER-IP: IP of server from where you are trying to receive data.<br>
 2. SERVER-PORT: PORT of server from where you are trying to receive data.<br>
-3. CONSOLE-LOGGING: It should true if you want to see the receiving data on console, otherwise false.
-4. FILE-LOGGING: It should true if you want to write the receiving data in log file, otherwise false.
+3. CONSOLE-LOGGING: It should true if you want to see the receiving data on console, otherwise false.<br>
+4. FILE-LOGGING: It should true if you want to write the receiving data in log file, otherwise false.<br>
 5. LOGS-LOCATION: location of folder where you want to generate log file. Leave blank if you want in same directory where you application is. In the above example logs will be created inside logs folder.
 
