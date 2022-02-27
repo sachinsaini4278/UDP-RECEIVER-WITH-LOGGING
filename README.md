@@ -64,11 +64,11 @@ Once you have successfully build cmake then a make file is generated. Now you ha
 There should be a conf file where your application is. Config file name should be udp-listener.conf as we are accessing file using same name.
 In config there are some fields I have added:
 <ol>
-<li>SERVER-IP=127.0.0.1 </li>
-<li>SERVER-PORT=9090    </li>
-<li>CONSOLE-LOGGING=true</li>
-<li>FILE-LOGGING=false  </li>
-<li>LOGS-LOCATION=./logs</li>
+<li>SERVER-IP=127.0.0.1 </li><br>
+<li>SERVER-PORT=9090    </li><br>
+<li>CONSOLE-LOGGING=true</li><br>
+<li>FILE-LOGGING=false  </li><br>
+<li>LOGS-LOCATION=./logs</li><br>
 </ol>
 1. SERVER-IP: IP of server from where you are trying to receive data.<br>
 2. SERVER-PORT: PORT of server from where you are trying to receive data.<br>
